@@ -10,7 +10,7 @@ data()
     plants:
     [
       {id: 1, name: "Snake Plant", type:"Indoor", instock:true},
-      {id: 1, name: "Rose", type:"Outdoor", instock:false}
+      {id: 1, name: "Sun Flower", type:"Outdoor", instock:false}
     ],
     filterType: 'All'
   }
